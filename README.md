@@ -1,5 +1,12 @@
 # ORB-SLAM3
 
+This fork will be focused on reducing time consumption of ORB-SLAM3 to make it practical for mobile devices. I will also explore ways to port ORB-SLAM3 to sparse depth maps (obtained by d-ToF or dot projection i-ToF) which might become popular in future AR devices.
+
+
+
+
+
+
 ### V0.3: Beta version, 7 Aug 2020
 **Authors:** Carlos Campos, Richard Elvira, Juan J. Gómez Rodríguez, [José M. M. Montiel](http://webdiis.unizar.es/~josemari/), [Juan D. Tardos](http://webdiis.unizar.es/~jdtardos/).
 
